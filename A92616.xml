@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some passages in the Parliament of Scotland. Concerning the treaty, and agreement between them and their King. Also, a declaration and engagement, signed by all the Members of Parliament, noblemen, barons, burgesses and all other subjects and inhabitants of the kingdom of Scotland. Together, with a declaration of the Presbyterian ministers, and a report made to the House by the Lord Dunfarlin.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92616</idno><idno type="EEBO-CITATION">99858868</idno>
+  <idno type="VID">165638</idno>
+  <idno type="EEBO-PROQUEST">2240874161</idno>
+  
+            <idno type="STC">Wing S1347</idno>
+            <idno type="STC">Thomason E602_16</idno>
+            <idno type="STC">ESTC R10618</idno>
+            <idno type="PROQUEST">99858868</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99858868e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92616)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165638)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 92:E602[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some passages in the Parliament of Scotland. Concerning the treaty, and agreement between them and their King. Also, a declaration and engagement, signed by all the Members of Parliament, noblemen, barons, burgesses and all other subjects and inhabitants of the kingdom of Scotland. Together, with a declaration of the Presbyterian ministers, and a report made to the House by the Lord Dunfarlin.</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.C. and are to be sold at the Royall-Exchange, and in the Old-Bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 29.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Scotland. --  Parliament --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165638:1"/>
+            <p>SOME PASSAGES IN THE PARLIAMENT OF SCOTLAND. CONCERNING The Treaty, and Agreement between them and their KING.</p>
+            <p>ALSO, A Declaration and Engagement, Signed by all the Members of <hi>Parliament,</hi> Noblemen, Barons, Burgesses and all other Subjects and Inhabitants of the Kingdom of SCOTLAND.</p>
+            <p>
+               <hi>TOGETHER,</hi> With a Declaration of the Presbyterian Ministers, And a report made to the House by the Lord DUNFARLIN.</p>
+            <p>LONDON, <hi>Printed for</hi> J. C. <hi>And are to be sold at the</hi> Royall-Exchange, <hi>and in the</hi> Old-Bayley, 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165638:2"/>
+            <pb n="1" facs="tcp:165638:2"/>
+            <head>SOME PASSAGES IN THE PARLIAMENT <hi>OF SCOTLAND.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <hi>Edenburgh</hi>
+                  <date>20. <hi>May</hi> 1650.</date>
+               </dateline>
+            </opener>
+            <p>THe Lord <hi>Dunfarlin</hi> hath made report to the PARLIAMENT, concerning the Treaty with their declared King at <hi>Breda,</hi> and many Papers have been read, which passed between the King and them; it is thought they will not sit above twenty days longer. They are drawing up of a <hi>Declaration</hi> touching the said Treaty, and what is agreed between them and their King consisting of several heads, and a Preface thus.</p>
+            <p>
+               <hi>We the Estates of Parliament now convened, finding
+<pb n="2" facs="tcp:165638:3"/>the strong endeavors and attempts, of disaffected persons and enemies of truth, to blast and obstruct our labors, in performance of our duties are therefore obliged to vindi<g ref="char:EOLhyphen"/>cate our selves from all unjust aspersions, and to clear and evidence to this Kingdom, our constancy and firmnes to the cause of God, &amp;c. And resolve to pursue all the ends of the Covenant, &amp;c.</hi>
+            </p>
+            <p>The Royal party do hang down their heads at the severe execution of <hi>Montross.</hi> It is reported, that a Messenger will be sent with all speed to <hi>Breda,</hi> where do yet remain some of the <hi>Scots</hi> Commissioners, in whose behalf the report before mentioned to be made was to this effect, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>We have from time to time as occasion hath been offer<g ref="char:EOLhyphen"/>ed, given your Lordships and the Committee of Estates a particular account of our diligence, and of the progress of those affairs which it pleased your Lordships to trust us with, which had been done more frequently, if the passage had not been so difficult and uncertain, that we could not get our Papers conveyed to your Lordships with that speed as we desired. And although our former Papers do bear much of the report, yet that the Parliament may have at once a recent and intire review of the whole business toge<g ref="char:EOLhyphen"/>ther, we shall shortly resume the substance of what hath been at several times communicated, and the papers which have not been as yet transmitted to your Lordships.</hi> After this several Papers were read, which had passed be<g ref="char:EOLhyphen"/>tween the Commissioners and their King, which are not yet committed to publick view; but it appears by the enclosed, that so far as the Commissioners have proceeded according to their Instructions, is well re<g ref="char:EOLhyphen"/>scented.</p>
+         </div>
+         <div type="document">
+            <pb n="3" facs="tcp:165638:3"/>
+            <head>An Ast of approbation of the Commissio<g ref="char:EOLhyphen"/>ners faithfulness in their service to the Treaty.</head>
+            <p>THe Estates of Parliament now presently conve<g ref="char:EOLhyphen"/>vened, having a report of the proceedings of their Commissioners with the King, and read the Pa<g ref="char:EOLhyphen"/>pers delivered to this Parliament; and being fully sa<g ref="char:EOLhyphen"/>tisfied with their integrety, faithfulness and diligence, in contributing their utmost endeavors for prosecu<g ref="char:EOLhyphen"/>ting their Instructions, and for obtaining satisfaction to the Desires of this Kingdom; Do therefore unani<g ref="char:EOLhyphen"/>mously and hastily acknowledg their faithfulness and diligence, and approve their proceedings, and render to them the hearty thanks of this Kingdom for the same.</p>
+            <closer>
+               <signed>Sic Subscribiter Arch. Johnston Cler. Regist.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <head>A Declaration of the Ministers of the Presbytery of ORKNEY.</head>
+            <p>
+               <hi>WE the Ministers of the Presbytery of</hi> Orkney, <hi>un<g ref="char:EOLhyphen"/>der-subscribers, considering and finding it conve<g ref="char:EOLhyphen"/>nient to us, and all of our calling, to give publick testi<g ref="char:EOLhyphen"/>mony
+<pb n="4" facs="tcp:165638:4"/>to the conscientiousness and justice of his Majesties service, now presently depending, and for the good excuse of others, and removing of whatsoever Scruples from the minds of all men: We willingly, freely and with candor declare, That we do from our soul detest that continual re<g ref="char:EOLhyphen"/>bellion, maliciously hatched, and wickedly prosecuted a<g ref="char:EOLhyphen"/>gainst his sacred Majesty of blessed and happy memory; and do from our hearts abhor His delivering over to bon<g ref="char:EOLhyphen"/>dage, imprisonment, horrid and execrable murder, and all damnable and pernicious practises, executed against him, by the rebellious Faction of both Kingdoms; The which we shall never fail hereafter to preach unto our peo<g ref="char:EOLhyphen"/>ple, and witness on every day of our calling; and also of our fruitful acknowledgment, prayers and wishes, for the happy establishment of His present Majesty, unto all His just Rights; and particularly it may please God to give a blessing to this present expedition of his Excellency</hi> James Gratham <hi>Marquess of</hi> Montross, <hi>and Capt. General to his Majesty, within the Kingdom of</hi> Scotland: <hi>All which we shall faithfully stand to advance, without giving the least thought or practice to the contrary.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>So help us God.</hi> Vera Copia.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <pb n="5" facs="tcp:165638:4"/>
+            <head>A Declaration of the Estates at EDENBƲRGH.</head>
+            <p>THe Estates of Parliament now conve<g ref="char:EOLhyphen"/>ned, considering how necessary it is, to establish their union in the preser<g ref="char:EOLhyphen"/>vation and maintainance of the Religion, Laws and Liberties of this Kingdom, and to prevent all factions and contention, and divisions, which may arise in prejudice there<g ref="char:EOLhyphen"/>of, from malicious suggestions and misin<g ref="char:EOLhyphen"/>formations of their adversaries, Do hereby testify and Declare their resolution and obli<g ref="char:EOLhyphen"/>gation, to acknowledg this present Parlia<g ref="char:EOLhyphen"/>to have been, and to be a free and lawful Par<g ref="char:EOLhyphen"/>liament. Like as, they bind and oblige themselves upon their honors and credit, and as they desire to be, and to be true Lovers of their Country, and of the Lawes and Liber<g ref="char:EOLhyphen"/>ties thereof, efaudlie and faithfully to the ut<g ref="char:EOLhyphen"/>most of their power, to joyn and concur, with their persons and estates, every one accord<g ref="char:EOLhyphen"/>ing to their several stations and callings, in
+<pb n="6" facs="tcp:165638:5"/>the maintenance of the freedom and lawful<g ref="char:EOLhyphen"/>ness of this aforesaid Parliament, and in the advancement, furtherance and assistance of the execution, obedience and observation of the Acts and constitutions thereof, as the most fit and necessary remedies of the by<g ref="char:EOLhyphen"/>gone and present evils and distractions of this Kirk and Kingdom, and for the preserva<g ref="char:EOLhyphen"/>tion of Religion Laws and Liberties thereof, And have ordained, and ordains this present Act, to be subscribed by all the Members of Parliament present and absent, Noblemen, Barons and Burgesses, and all other Subjects and Inhabitants of this Kingdom, with certi<g ref="char:EOLhyphen"/>fication that such as refuse, or postpone, and delay to subscribe the same, shall be holden as enemies and opposites to the common Cause, consisting in the maintenance of the true reformed Religion, and of the Laws and liberties of this Kingdom.</p>
+            <closer>
+               <signed>Signed, <hi>Alex. Gibson, Cler. Regist.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
